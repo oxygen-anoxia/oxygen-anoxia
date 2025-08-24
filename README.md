@@ -9,6 +9,13 @@ anoxia是一个很厉害的医学生，有很多笔记，也有很多同学找�
 oxygen
 创建于2024.11.13
 
+这两天搞实验室项目处理屎山搞得有点崩溃，摸鱼的时候看到了之前写的这篇主页，更新一下。
+之前kali相关的项目烂尾了，导师好像跑路了（实际上自己也很摸鱼），现在在做另外一个实验室的项目，专搞LLM，KAG应用这块。
+anoxia的笔记正在弄，也摸了好久（心虚）。
+还是会更新一些CS相关的内容，虽然实验室的源码似乎要保密，但是可以用一些相关的知识自己写一点别的小项目放上来。
+
+oxygen
+更新于2025.8.24
 
 <!---
 oxygen-anoxia/oxygen-anoxia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
