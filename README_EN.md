@@ -2,7 +2,8 @@
 Hi, I’m Yiming Wang (oxygen-anoxia)
 
 I build intelligent systems, full-stack web applications, and LLM-powered tools.
-My work spans AI engineering, multi-component system design, and practical automation for real-world use cases.
+My work spans AI engineering, multi-component system design, and practical automation for real-world use cases.  
+For more information about a single project, you can find README_en.md in each repo. 
 
 ⭐ Featured Projects (Most Relevant & Technically Mature)
 
